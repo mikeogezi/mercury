@@ -1,0 +1,6 @@
+[submodule "mercury-ui"]
+  path = mercury-ui
+  url = https://github.com/mikeogezi/mercury-ui.git
+[submodule "mercury-backend"]
+  path = mercury-backend
+  url = https://github.com/mikeogezi/mercury-backend.git
